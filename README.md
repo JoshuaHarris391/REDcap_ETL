@@ -14,3 +14,4 @@ This REDcap database will need a redesign with a new data dictionary.
 7. Transform plasma vial raw data for import into REDcap REST-API
 8. Transform DNA extraction info for import into REDcap REST-API
 
+[Jupyter Notebook for ELIMINATE](src/ELIMINATE/clin_etl.ipynb)
